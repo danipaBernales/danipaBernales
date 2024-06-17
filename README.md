@@ -1,6 +1,6 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=danipabernales&label=Profile%20views&color=0e75b6&style=flat" alt="danipabernales views"/></p>
-<h3 align="center">I'm Daniela but you can call me Danipa🤝</h3>
-<p align="center">your best Chilean dev colleague👩‍💻</p>
+<h3 align="center">Hi! I'm Daniela but you can call me Danipa 🤝</h3>
+<p align="center">your best Chilean dev colleague 👩‍💻</p>
 <br>
 <p align="center">Don't forget to<br>
   <a href="https://www.buymeacoffee.com/danipabernales"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danipabernales buymeacoffee"/></a>
@@ -12,7 +12,7 @@
 
 ---
 
-<h3>These are some things you should know about me🫵</h3>
+<h3>These are some things you should know about me 🫵</h3>
 <ul>
   <li>🏗 I’m currently working on an App for the local music scene based on Python and Django. Just a solo project for now.</li>
   <li>🌱 I’m learning about Fullstack Python development. Data analysis soon.</li>
