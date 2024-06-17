@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi! I'm Daniela but you can call me danipa</h1>
+<h2 align="center">your best friend dev 😏</h2>
 
-<!--
-**danipaBernales/danipaBernales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h3 align="center">"I must fill this space with the greatest description..."</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Some things about me you should know 👆:
+- 🏗 I’m currently working on an App for the local music scene based on Python and Django. Just a solo project for now.
+- 🌱 I’m learning about Fullstack Python development. Data analysis soon.
+- 👯 I want to collaborate on cool projects based on innovative visual and inmersive proposals, which present challenges in data structuring and maintenance.
+- 🪂 I’m looking for help to improve my skills about data structuring and modeling. Advanced Python too.
+- 🎓 Ask me about BTL marketing and international trade and its system. I'm passionate about it and I can talk about different related topics for hours... even days. Maybe you can learn something new.
+- 😜 Fun fact: I have proficiency in shitty small ventures not related to web or software development. I had a lot and I really don't know how. Or why, but they rocked!
+- 🗺 Based in Chile but I can move!
+- 📚 ES | EN | et un peu de FR
+
+---
+
+### Look at my GitHub Streak Stats 👀:
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=danipaBernales&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</div>
+
+---
