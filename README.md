@@ -11,7 +11,7 @@
 
 ---
 
-### Some things about me you should know👆
+<h3>Some things about me you should know👆</h3>
 - 🏗 I’m currently working on an App for the local music scene based on Python and Django. Just a solo project for now.
 - 🌱 I’m learning about Fullstack Python development. Data analysis soon.
 - 👯 I want to collaborate on cool projects based on innovative visual and inmersive proposals, which present challenges in data structuring and maintenance.
@@ -26,11 +26,12 @@
 <p align="center">my GitHub Streak Stats🚦</p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=danipabernales&theme=transparent&hide_border=true" alt="danipabernales stats"/></p>
 <p align="center">most used languages in here</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danipabernales&show_icons=true&locale=en&layout=compact&theme=transparent&hide_title=true&hide_border=true" alt="danipabernales"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langsusername=danipabernales&show_icons=true&locale=en&layout=compact&theme=transparent&hide_title=true&hide_border=true" alt="danipabernales"/></p>
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages and tools I know</h3>
+<br>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
