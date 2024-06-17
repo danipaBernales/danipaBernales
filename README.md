@@ -19,7 +19,7 @@
   <li>👯 I want to collaborate on cool projects based on innovative visual and inmersive proposals, which present challenges in data structuring and maintenance.</li>
   <li>🪂 I’m looking for help to improve my skills about data structuring and modeling. Advanced Python too.</li>
   <li>🎓 Ask me about BTL marketing and international trade and its system. I'm passionate about it and I can talk about different related topics for hours... even days. Maybe    you can learn something new.</li>
-  <li>😜 Fun fact: I have proficiency in shitty small ventures not related to web or software development. I had a lot and I really don't know how. Or why, but they rocked!</li>
+  <li>😜 Fun fact: I have proficiency in shitty small ventures not related to web or software development. I had a lot and I really don't know why. Or how, but they rocked!</li>
   <li>🌎 Based in Chile but I can move!</li>
   <li>📚 EN | ES | et un peu de FR</li>
 </ul>
@@ -75,6 +75,6 @@
 
 ---
 
-<h3 align="right">...wanna try? 😏🚀</h3>
+<p align="right">...wanna try? 😏🚀</p>
 
 ---
