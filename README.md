@@ -75,4 +75,6 @@
 
 ---
 
-<h2 align="center">Wanna try?</h2>
+<h3 align="center">Wanna try?</h3>
+
+---
