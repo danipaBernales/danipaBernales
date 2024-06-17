@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I'm Daniela but you can call me Danipa🤝</h1>
-<p align="center"><h2>your best friend chilean dev👩‍💻</h2</p>
+<h2 align="center">I'm Daniela but you can call me Danipa🤝</h2>
+<p align="center"><h3>your best friend chilean dev👩‍💻</h3></p>
 
 ---
 
