@@ -20,6 +20,6 @@
 ---
 
 ### Look at my GitHub Streak Stats🚦
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham](https://streak-stats.demolab.com?user=danipaBernales&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="stats" />
+<p align="center"><img src="https://streak-stats.demolab.com?user=danipaBernales&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="stats" />
 
 ---
