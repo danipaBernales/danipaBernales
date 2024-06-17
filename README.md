@@ -20,12 +20,9 @@
 ---
 
 <p align="center">my GitHub Streak Stats🚦</p>
-<p align="center"><img src="https://streak-stats.demolab.com?user=danipaBernales&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="stats"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=danipabernales&theme=transparent&hide_border=true" alt="danipabernales stats"/></p>
 
 ---
-
-<h1 align="center">Hi 👋, I'm Daniela</h1>
-<h3 align="center">A passionate frontend developer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danipabernales&label=Profile%20views&color=0e75b6&style=flat" alt="danipabernales" /> </p>
 
@@ -51,4 +48,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danipabernales&show_icons=true&locale=en" alt="danipabernales" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danipabernales&" alt="danipabernales" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=danipabernales&theme=transparent&hide_border=true" alt="danipabernales" /></p>
