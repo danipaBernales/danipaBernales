@@ -1,6 +1,8 @@
 <p align="center">I'm Daniela but you can call me Danipa🤝<br>your best friend chilean dev👩‍💻</p>
 
-<p align="center">Don't forget to <a href="https://www.buymeacoffee.com/danipabernales"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danipabernales" /></a></p>
+<p align="center">Don't forget to<br>
+  <a href="https://www.buymeacoffee.com/danipabernales"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danipabernales" /></a>
+</p>
 
 ---
 
