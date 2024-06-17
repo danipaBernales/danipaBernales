@@ -25,6 +25,7 @@
 
 <p align="center">my GitHub Streak Stats🚦</p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=danipabernales&theme=transparent&hide_border=true" alt="danipabernales stats"/></p>
+<p align="center">most used languages</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danipabernales&show_icons=true&locale=en&layout=compact&theme=transparent&hide_title=true&hide_border=true" alt="danipabernales"/></p>
 
 ---
