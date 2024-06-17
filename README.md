@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Daniela but you can call me danipa</h1>
+<h1 align="center">Hi! I'm Daniela but you can call me Danipa</h1>
 <h2 align="center">your best friend dev 😏</h2>
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-### Some things about me you should know 👆:
+### Some things about me you should know👆:
 - 🏗 I’m currently working on an App for the local music scene based on Python and Django. Just a solo project for now.
 - 🌱 I’m learning about Fullstack Python development. Data analysis soon.
 - 👯 I want to collaborate on cool projects based on innovative visual and inmersive proposals, which present challenges in data structuring and maintenance.
@@ -19,6 +19,6 @@
 ---
 
 ### Look at my GitHub Streak Stats 👀:
-<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=danipaBernales&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=danipaBernales&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
