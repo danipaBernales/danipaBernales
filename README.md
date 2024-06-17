@@ -21,10 +21,6 @@
   <li>😜 Fun fact: I have proficiency in shitty small ventures not related to web or software development. I had a lot and I really don't know how. Or why, but they rocked!</li>
   <li>🗺 Based in Chile but I can move!</li>
   <li>📚 EN | ES | et un peu de FR</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
 </ul>
 
 ---
