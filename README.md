@@ -1,5 +1,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=danipabernales&label=Profile%20views&color=0e75b6&style=flat" alt="danipabernales views"/></p>
-<p align="center">I'm Daniela but you can call me Danipa🤝<br>your best friend chilean dev👩‍💻</p>
+<h2 align="center">I'm Daniela but you can call me Danipa🤝</h2>
+<br>
+<h3>your best friend chilean dev👩‍💻</h3>
 
 <p align="center">Don't forget to<br>
   <a href="https://www.buymeacoffee.com/danipabernales"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danipabernales buymeacoffee"/></a>
@@ -7,11 +9,11 @@
 
 ---
 
-<p align="center">"I must fill this space with the greatest description..."</p>
+<p align="center">"I must fill this space with the greatest description ever..."</p>
 
 ---
 
-<h3>Some things about me you should know👆</h3>
+<h3>Some things about me you should know🫵</h3>
 <ul>
   <li>🏗 I’m currently working on an App for the local music scene based on Python and Django. Just a solo project for now.</li>
   <li>🌱 I’m learning about Fullstack Python development. Data analysis soon.</li>
@@ -19,7 +21,7 @@
   <li>🪂 I’m looking for help to improve my skills about data structuring and modeling. Advanced Python too.</li>
   <li>🎓 Ask me about BTL marketing and international trade and its system. I'm passionate about it and I can talk about different related topics for hours... even days. Maybe    you can learn something new.</li>
   <li>😜 Fun fact: I have proficiency in shitty small ventures not related to web or software development. I had a lot and I really don't know how. Or why, but they rocked!</li>
-  <li>🗺 Based in Chile but I can move!</li>
+  <li>🌎 Based in Chile but I can move!</li>
   <li>📚 EN | ES | et un peu de FR</li>
 </ul>
 
@@ -27,7 +29,7 @@
 
 <p align="center">my GitHub Streak Stats🚦</p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=danipabernales&theme=transparent&hide_border=true" alt="danipabernales stats"/></p>
-<p align="center">most used languages in here</p>
+<p align="center">the most used in here⚡</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danipabernales&show_icons=true&locale=en&layout=compact&theme=transparent&hide_title=true&hide_border=true" alt="danipabernales"/></p>
 
 ---
@@ -71,5 +73,9 @@
   <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 </p> 
+
+---
+
+<h2 align="center">Wanna try?</h2>
 
 ---
