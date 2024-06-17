@@ -25,7 +25,7 @@
 
 <p align="center">my GitHub Streak Stats🚦</p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=danipabernales&theme=transparent&hide_border=true" alt="danipabernales stats"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danipabernales&show_icons=true&locale=en&bg_color=00ffffff&layout=compact" alt="danipabernales"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danipabernales&show_icons=true&locale=en&layout=normal&bg_color=00ffffff" alt="danipabernales"/></p>
 
 ---
 
