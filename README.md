@@ -28,9 +28,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danipabernales" alt="danipabernales" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,5 +44,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danipabernales&show_icons=true&locale=en&layout=compact" alt="danipabernales" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danipabernales&show_icons=true&locale=en" alt="danipabernales" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=danipabernales&theme=transparent&hide_border=true" alt="danipabernales" /></p>
