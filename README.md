@@ -75,6 +75,6 @@
 
 ---
 
-<h3 align="center">Wanna try?</h3>
+<h3 align="right">...wanna try? 😏</h3>
 
 ---
