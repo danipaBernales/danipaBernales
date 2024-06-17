@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="center">"I must fill this space with the greatest description..."</h3>
+<p align="center">"I must fill this space with the greatest description..."</p>
 
 ---
 
