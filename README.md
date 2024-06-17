@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Daniela but you can call me Danipa🤝</h1>
-<p align="center">your best friend chilean dev👩‍💻</p>
+<p align="center"><h2>>your best friend chilean dev👩‍💻</h2</p>
 
 ---
 
@@ -20,6 +20,6 @@
 ---
 
 ### Look at my GitHub Streak Stats🚦
-<p align="center"><img src="https://streak-stats.demolab.com?user=danipaBernales&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="stats" />
+<p align="center"><img src="https://streak-stats.demolab.com?user=danipaBernales&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="stats"/>
 
 ---
