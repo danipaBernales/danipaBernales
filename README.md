@@ -15,7 +15,7 @@
 <h3>These are some things you should know about me 🫵</h3>
 <ul>
   <li>🏗 I’m currently working on an App for the local music scene based on Python and Django. Just a solo project for now.</li>
-  <li>🌱 I’m learning about Fullstack Python development. Data analysis soon.</li>
+  <li>🌱 I am certifying Fullstack Python development. Data analysis soon.</li>
   <li>👯 I want to collaborate on cool projects based on innovative visual and inmersive proposals, which present challenges in data structuring and maintenance.</li>
   <li>🪂 I’m looking for help to improve my skills about data structuring and modeling. Advanced Python too.</li>
   <li>🎓 Ask me about BTL marketing and international trade and its system. I'm passionate about it and I can talk about different related topics for hours... even days. Maybe    you can learn something new.</li>
