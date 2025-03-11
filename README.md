@@ -3,7 +3,7 @@
 <p align="center">your best Chilean dev colleague 👩‍💻</p>
 <br>
 <p align="center">Don't forget to<br>
-  <a href="https://www.buymeacoffee.com/danipabernales"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danipabernales buymeacoffee"/></a>
+  <a href="https://soundcloud.com/danipa-bernales?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="![image](![image](https://github.com/user-attachments/assets/85fd374d-d9f3-4c42-b5ae-5a5877d93980)"/></a>
 </p>
 
 ---
