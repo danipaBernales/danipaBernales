@@ -3,7 +3,7 @@
 <p align="center">your best Chilean dev colleague 👩‍💻</p>
 <br>
 <p align="center">Don't forget to<br>
-  <a href="https://soundcloud.com/danipa-bernales"><img src="![image](![image](https://www.flaticon.com/free-icons/soundcloud)"/></a>
+  [Link text](https://gabalpha.github.io/read-audio/?p=[https://soundcloud.com/danipa-bernales])
 </p>
 
 ---
