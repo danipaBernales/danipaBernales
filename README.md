@@ -2,9 +2,6 @@
 <h3 align="center">Hi! I'm Daniela but you can call me Danipa 🤝</h3>
 <p align="center">your best Chilean dev colleague 👩‍💻</p>
 <br>
-<p align="center">Don't forget to<br>
-  [Link text](https://gabalpha.github.io/read-audio/?p=[https://soundcloud.com/danipa-bernales])
-</p>
 
 ---
 
