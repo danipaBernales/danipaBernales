@@ -2,7 +2,9 @@
 <h3 align="center">Hi! I'm Daniela but you can call me Danipa 🤝</h3>
 <p align="center">your best Chilean dev colleague 👩‍💻</p>
 <br>
-<p align="center">Hear my "music" as TíaChi on [SoundCloud](https://soundcloud.com/danipa-bernales/)</p>
+<p align="center">
+  Hear my "music" as TíaChi on <a href="https://soundcloud.com/danipa-bernales/" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg](https://fontawesome.com/icons/soundcloud?f=brands&s=solid)" alt="my soundcloud" width="40" height="40"/></a>
+</p>
 
 ---
 
