@@ -2,8 +2,7 @@
 <h3 align="center">Hi! I'm Daniela but you can call me Danipa 🤝</h3>
 <p align="center">your best Chilean dev colleague 👩‍💻</p>
 <br>
-
-<p>Hear my "music" as TíaChi on [SoundCloud](https://soundcloud.com/danipa-bernales/)</p>
+<p align="center">Hear my "music" as TíaChi on [SoundCloud](https://soundcloud.com/danipa-bernales/)</p>
 
 ---
 
