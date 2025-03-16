@@ -3,6 +3,8 @@
 <p align="center">your best Chilean dev colleague 👩‍💻</p>
 <br>
 
+<p>Hear my "music" as TíaChi on [SoundCloud](https://soundcloud.com/danipa-bernales/)</p>
+
 ---
 
 <p align="center">"I must fill this space with the greatest description ever..."</p>
