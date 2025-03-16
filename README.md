@@ -2,14 +2,14 @@
 <h3 align="center">Hi! I'm Daniela but you can call me Danipa 🤝</h3>
 <p align="center">your best Chilean dev colleague 👩‍💻</p>
 <br>
+<br>
 
 <p align="center">
   I also make music! Listen to it by clicking the link below 👇
 </p>
 <p align="center">
-  <a href="https://soundcloud.com/danipa-bernales/" target="_blank"><img src="https://www.vectorlogo.zone/logos/soundcloud/soundcloud-icon.svg" alt="my soundcloud" width="40" height="40"/></a>
+  <a href="https://soundcloud.com/danipa-bernales/" target="_blank"><img src="https://www.vectorlogo.zone/logos/soundcloud/soundcloud-ar21.svg" alt="my soundcloud" height="40"/></a>
 </p>
-
 ---
 
 <p align="center">"I must fill this space with the greatest description ever..."</p>
